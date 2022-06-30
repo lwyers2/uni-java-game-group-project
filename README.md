@@ -1,0 +1,2 @@
+# uni-java-game-group-project
+This is a group project. This is a monopoly-like game which runs on a console. The game is written in Java. This project demonstrates how a project is created using Software Engineering thories. UML, testing, OOP and version control(university gitlab repos) were used to create this project. The full report, code, and relevant documents are included. PLEASE NOTE: ALL WORK IS NOT MY OWN, AND RATHER THE CULMINATION OF GROUP WORK. I CANNOT TAKE CREDIT FOR ALL WORK.
